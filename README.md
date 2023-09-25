@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SaravanapathiResearcher
 - 👀 I’m interested in Malware analysis
-- 🌱 I’m currently more about malware
-- 💞️ I’m looking to collaborate on reversing
+- 🌱 I’m currently more about Working 
 - 📫 How to reach me vallavansaravanapathi@gmail.com
